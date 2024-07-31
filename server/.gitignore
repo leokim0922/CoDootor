@@ -1,0 +1,4 @@
+node_modules
+
+# Ignore all files and folders in the data directory
+## data/*

@@ -1,0 +1,13 @@
+.linkStyle:hover {
+    color: blue;
+    font-weight: 700;
+}
+
+.activeLinkStyle {
+    color: blue;
+    font-weight: 700;
+}
+
+.activeLinkStyle:hover {
+    color: navy;
+}

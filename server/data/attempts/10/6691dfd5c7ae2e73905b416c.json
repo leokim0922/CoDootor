@@ -1,0 +1,1 @@
+[{"results":[{"input_args":[[5,5]],"expected_outputs":[0],"pts":1,"passed":true,"actual_outputs":[0]},{"input_args":[[12345678,1]],"expected_outputs":[0],"pts":1,"passed":true,"actual_outputs":[0]},{"input_args":[[100,3]],"expected_outputs":[1],"pts":1,"passed":true,"actual_outputs":[1]}],"desc":"takes two integers and modulo of those","comment":""}]

@@ -1,0 +1,1 @@
+This folder is used to store the test user data in the form of JSON files. Only JSON files will be read here.

@@ -1,0 +1,77 @@
+.page {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 20px;
+  background-color: #ffffff;
+  min-height: 100vh;
+}
+
+.logo {
+  display: flex;
+  flex-direction: row;
+}
+
+.loginPromptPage {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  background-color: #ffffff;
+  min-height: 100vh;
+}
+
+.stripedTable tbody tr:nth-child(even) {
+  background-color: #f0f0f0;
+}
+
+.header {
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  margin-bottom: 20px;
+}
+
+.homeButton {
+  margin-bottom: 20px;
+  padding: 10px 20px;
+  background-color: #3498db;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.content {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.leftColumn,
+.centerColumn,
+.rightColumn {
+  flex: 1;
+  padding: 20px;
+}
+
+.leftColumn {
+  background-color: #ffffff;
+}
+
+.centerColumn {
+  background-color: #ffffff;
+}
+
+.rightColumn {
+  background-color: #d0d0d0;
+}
+
+.userInput {
+  width: 100%;
+  margin-top: 20px;
+}
+
+.submitButton {
+  margin-top: 10px;
+}

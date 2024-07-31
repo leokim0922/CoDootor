@@ -1,0 +1,1 @@
+[{"results":[{"desc":"Test if the function returns '' if the input is ''.","score":1},{"desc":"Test if the function returns 'godtoh' if the input is 'hotdog'.","score":1},{"desc":"Test if the function returns 'racecar' if the input is 'racecar'.","score":1}],"desc":"Takes in a string and returns it reversed"}]

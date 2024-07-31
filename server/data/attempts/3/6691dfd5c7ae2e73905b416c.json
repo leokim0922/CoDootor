@@ -1,0 +1,1 @@
+[{"results":[{"input_args":[[0]],"expected_outputs":[0],"pts":1,"passed":true,"actual_outputs":[0]},{"input_args":[[1]],"expected_outputs":[1],"pts":1,"passed":true,"actual_outputs":[1]},{"input_args":[[20]],"expected_outputs":[6765],"pts":1,"passed":true,"actual_outputs":[6765]}],"desc":"takes an integer and return an Fibonacci sequence ","comment":""}]

@@ -1,0 +1,30 @@
+{
+  "name": "codootor-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 5173",
+    "build": "next build",
+    "start": "next start -p 5173",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@auth0/nextjs-auth0": "^3.5.0",
+    "@mantine/code-highlight": "^7.11.0",
+    "@mantine/core": "^7.11.0",
+    "@mantine/hooks": "^7.11.0",
+    "@mantinex/mantine-logo": "^1.0.1",
+    "@tabler/icons-react": "^3.7.0",
+    "chai": "^5.1.1",
+    "mocha": "^10.5.2",
+    "next": "14.2.4",
+    "react": "^18",
+    "react-dom": "^18"
+  },
+  "devDependencies": {
+    "@types/estree": "^1.0.5",
+    "postcss": "^8.4.38",
+    "postcss-preset-mantine": "^1.15.0",
+    "postcss-simple-vars": "^7.0.1"
+  }
+}

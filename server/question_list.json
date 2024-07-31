@@ -1,0 +1,92 @@
+{
+	"question_list": [
+		{
+			"stage": 1,
+			"name": "One sheep, two sheep",
+			"num_tests": 3,
+			"filepath": "./questions/q1.js",
+			"test_filepath": "./unit_tests/q1_tests.js",
+			"max_score": 3
+		}, 
+		{
+			"stage": 2,
+			"name": "Quiet strings",
+			"num_tests": 3,
+			"filepath": "./questions/q2.js",
+			"test_filepath": "./unit_tests/q2_tests.js",
+			"max_score": 3
+		},
+		{
+			"stage": 3,
+			"name": "Recursive recursion",
+			"num_tests": 3,
+			"filepath": "./questions/q3.js",
+			"test_filepath": "./unit_tests/q3_tests.js",
+			"max_score": 3
+		},
+		{
+			"stage": 4,	
+			"name": "Working With Lists I",
+			"num_tests": 4,
+			"filepath": "./questions/q4.js",
+			"test_filepath": "./unit_tests/q4_tests.js",
+			"max_score": 4
+		},
+		{
+			"stage": 5,
+			"name": "Working With Lists II",
+			"num_tests": 3,
+			"filepath": "./questions/q5.js",
+			"test_filepath": "./unit_tests/q5_tests.js",
+			"max_score": 3
+		},
+		{
+			"stage": 6,
+			"name": "Stringies",
+			"num_tests": 5,
+			"filepath": "./questions/q6.js",
+			"test_filepath": "./unit_tests/q6_tests.js",
+			"max_score": 5
+		},
+		{
+			"stage": 7,
+			"name": "Big Numbers",
+			"num_tests": 3,
+			"filepath": "./questions/q7.js",
+			"test_filepath": "./unit_tests/q7_tests.js",
+			"max_score": 3
+		},
+		{
+			"stage": 8,
+			"name": "Make some string",
+			"num_tests": 3,
+			"filepath": "./questions/q8.js",
+			"test_filepath": "./unit_tests/q8_tests.js",
+			"max_score": 3
+		},
+		{
+			"stage": 9,
+			"name": "String-a ding-ding",
+			"num_tests": 2,
+			"filepath": "./questions/q9.js",
+			"test_filepath": "./unit_tests/q9_tests.js",
+			"max_score": 2
+		},
+		{
+			"stage": 10,
+			"name": "Numbers and such",
+			"num_tests": 3,
+			"filepath": "./questions/q10.js",
+			"test_filepath": "./unit_tests/q10_tests.js",
+			"max_score": 3
+		},
+		{
+			"stage": 11,
+			"name": "Double trouble",
+			"num_tests": 4,
+			"filepath": "./questions/q11.js",
+			"test_filepath": "./unit_tests/q11_tests.js",
+			"max_score": 4
+		}
+	]
+}

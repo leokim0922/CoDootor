@@ -1,0 +1,1 @@
+[{"results":[{"desc":"Test if the function converts 'Hello World' to 'hello world'.","score":1},{"desc":"Test if the function converts 'JavaScript' to 'javascript' and 'UNIT TEST' to 'unit test'.","score":1},{"desc":"Test if the function converts 'CPsc310' to 'cpsc310' and 'LEo' to 'leo'.","score":1}],"desc":"Takes in a string and returns it in all lowercase"}]
