@@ -41,8 +41,8 @@ Our backend will use Granite-code:3b via Ollama. REST API will handle this inter
 ## Docker Compose (Installation)
 1. **Clone the repository:**
     ```sh
-    git clone https://github.students.cs.ubc.ca/CPSC310-2024S/Project-Groups-19-Lab-B.git
-    cd Project-Groups-19-Lab-B
+    git clone https://github.com/leokim0922/CoDootor.git
+    cd CoDootor
     ```
 
 2. **Start the Docker containers:**
